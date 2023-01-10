@@ -1,20 +1,6 @@
 0x01. Python - Async
 ====================
 
- Specializations - Web Stack programming -- Back-end
-
-* by Emmanuel Turlay, Staff Software Engineer at Cruise*
-
- Ongoing project - started 10-20-2020, must end by 10-21-2020 (in about 9 hours) - you're done with 0% of tasks.
-
- Checker was released at 10-20-2020 12:00 PM
-
- QA review fully automated.
-
- async python python3 async
-
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/12/4aeaa9c3cb1f316c05c4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20201020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201020T200653Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7d464b354887a5844042bb832dfbd9e62b90e907a6de19b98b117663cada31e0)
-
 Resources
 ---------
 
@@ -57,8 +43,6 @@ Requirements
 Tasks
 -----
 
- Done?\
-Help
 
 #### 0\. The basics of async mandatory
 
@@ -84,17 +68,6 @@ vagrant@ubuntu-bionic:/vagrant/holberton_development/curriculum-specialization-b
 10.634589756751769
 
 ```
-
-**Repo:**
-
--   GitHub repository: `holbertonschool-web_back_end`
--   Directory: `0x01-python_async_function`
--   File: `0-basic_async_syntax.py`
-
-Check your code?Get a container
-
- Done?\
-Help
 
 #### 1\. Let's execute multiple coroutines at the same time with async mandatory
 
@@ -125,16 +98,6 @@ vagrant@ubuntu-bionic:/vagrant/holberton_development/curriculum-specialization-b
 
 The output for your answers might look a little different and that's okay.
 
-**Repo:**
-
--   GitHub repository: `holbertonschool-web_back_end`
--   Directory: `0x01-python_async_function`
--   File: `1-concurrent_coroutines.py`
-
-Check your code?Get a container
-
- Done?\
-Help
 
 #### 2\. Measure the runtime mandatory
 
@@ -159,17 +122,6 @@ vagrant@ubuntu-bionic:/vagrant/holberton_development/curriculum-specialization-b
 1.759705400466919
 
 ```
-
-**Repo:**
-
--   GitHub repository: `holbertonschool-web_back_end`
--   Directory: `0x01-python_async_function`
--   File: `2-measure_runtime.py`
-
-Check your code?Get a container
-
- Done?\
-Help
 
 #### 3\. Tasks mandatory
 
@@ -197,17 +149,6 @@ vagrant@ubuntu-bionic:/vagrant/holberton_development/curriculum-specialization-b
 
 ```
 
-**Repo:**
-
--   GitHub repository: `holbertonschool-web_back_end`
--   Directory: `0x01-python_async_function`
--   File: `3-tasks.py`
-
-Check your code?Get a container
-
- Done?\
-Help
-
 #### 4\. Tasks mandatory
 
 Take the code from `wait_n` and alter it into a new function `task_wait_n`. The code is nearly identical to `wait_n` except `task_wait_random` is being called.
@@ -228,9 +169,3 @@ vagrant@ubuntu-bionic:/vagrant/holberton_development/curriculum-specialization-b
 [0.2261658205652346, 1.1942770588220557, 1.8410422186086628, 2.1457353803430523, 4.002505454641153]
 
 ```
-
-**Repo:**
-
--   GitHub repository: `holbertonschool-web_back_end`
--   Directory: `0x01-python_async_function`
--   File: `4-tasks.py`
